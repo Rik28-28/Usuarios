@@ -17,6 +17,12 @@
             "nombre": "Jesus",
             "correo": "jesus@gmail.com",
             "contraseña": "5432"
+        },
+        {
+            "id": 6,
+            "nombre": "Erik",
+            "correo": "name@gmail.com",
+            "contraseña": "5432"
         }
     ]
 }
